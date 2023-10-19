@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="~/)q4L5X7avGJ6it$)Cs">sprite</variable><variable id="yZK?g0w?p^Y2E0p;~!yI">strip</variable></variables><block type="device_button_event" id="mauE~w_|XTLEHsFHeEk{" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="`,^uvBm~ueUOuiL_PF}+"><field name="LEDS">`
+        . # . . . 
+        . . . . . 
+        . . # . . 
+        # . . . . 
+        . . . . .
+        `</field></block></statement></block></xml>
